@@ -16,10 +16,14 @@ This project is a console-based ATM interface that allows users to perform vario
 - Transfer Money
 
 ## Getting Started
-1. Clone the repository: https://github.com/ArunSoni01/ATM-Interface.git
-2. Navigate to the project directory: cd ATM-Interface
-3. Compile the project: javac *.java
-4. Run the ATM interface: java ATM
+1. Clone the repository:
+     git clone: https://github.com/ArunSoni01/ATM-Interface.git
+2. Navigate to the project directory:
+     cd ATM-Interface
+3. Compile the project:
+     javac *.java
+4. Run the ATM interface:
+     java ATM
 
 ## Usage
 1. Run the `ATM` class.
