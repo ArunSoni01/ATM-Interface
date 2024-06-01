@@ -17,7 +17,7 @@ This project is a console-based ATM interface that allows users to perform vario
 
 ## Getting Started
 1. Clone the repository:
-     git clone: https://github.com/ArunSoni01/ATM-Interface.git
+     https://github.com/ArunSoni01/ATM-Interface.git
 2. Navigate to the project directory:
      cd ATM-Interface
 3. Compile the project:
